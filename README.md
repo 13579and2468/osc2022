@@ -2,7 +2,7 @@
 
 | GitHub account name | Student ID | Name   |
 | ------------------- | ---------- | ------ |
-| cl3nn0              | 310551034  | 張逸軍  |
+| cl3nn0              | 310551034  | 張逸軍大  |
 
 ## How to build
 

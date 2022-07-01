@@ -6,6 +6,15 @@
 | --- | ----------- | --- |
 |`310551097`| `13579and2468` | `曾思維` |
 
+## spec
+
+https://oscapstone.github.io/
+
+## uncomplete parts
+
+lab6 advanced 3 : copy on write
+lab8 : all
+
 ## compile
 ```
 make

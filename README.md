@@ -12,7 +12,8 @@ https://oscapstone.github.io/
 
 ## uncomplete parts
 
-lab6 advanced 3 : copy on write
+lab6 advanced 3 : copy on write <br>
+
 lab8 : all
 
 ## compile
